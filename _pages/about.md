@@ -1,18 +1,4 @@
 ---
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-# Youssef Ayman
-
-**Computer Engineering & Mathematics Student**  
-*Algorithms · Geometry Processing · Simulation · Systems*
-
----
 
 I am an undergraduate student at **The American University in Cairo**, pursuing a B.Sc. in **Computer Engineering and Mathematics** (GPA: **4.00/4.00**). My interests lie in **algorithmic design, geometry processing, and physics-based simulation**, with an emphasis on building efficient, mathematically grounded systems.
 
